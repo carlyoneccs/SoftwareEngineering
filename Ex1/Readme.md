@@ -1,4 +1,4 @@
-# Exercise 1 – Visual Studio 2roject Upload Instructions
+# Exercise 1 – Visual Studio Project Upload Instructions
 
 These instructions apply **regardless of how you created your work**:
 - Your own GitHub repository
